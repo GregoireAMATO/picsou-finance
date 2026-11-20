@@ -17,6 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   Unlike `hidden`, collapsed accounts stay in every total, budget and chart — see
   `docs/features/account-list-display.md`.
 
+- **OKX exchange sync.** Connect a read-only API key to track trading and funding
+  balances, Simple Earn Flexible, On-chain Earn, and ETH and SOL staking. Choose
+  Global, EEA, or US when adding the connection.
+
 ## [1.2.1] — 2026-11-20
 
 ### Added
